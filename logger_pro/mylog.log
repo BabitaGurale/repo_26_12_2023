@@ -1,0 +1,6 @@
+INFO 2023-12-22 18:58:56,605 Watching for file changes with StatReloader
+WARNING 2023-12-22 18:59:34,542 Unauthorized: /person/
+WARNING 2023-12-22 18:59:34,543 "DELETE /person/?id=5 HTTP/1.1" 401 183
+INFO 2023-12-22 19:00:20,831 C:\Users\Dell\Desktop\DRF\New folder\logger_pro\logger_pro\settings.py changed, reloading.
+INFO 2023-12-22 19:00:22,155 Watching for file changes with StatReloader
+INFO 2023-12-22 19:00:31,586 C:\Users\Dell\Desktop\DRF\New folder\logger_pro\logger_pro\settings.py changed, reloading.
